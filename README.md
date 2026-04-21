@@ -1,4 +1,5 @@
-Hi! I'm Oliver, a BSc Computer Science Student currently studying at the University of Sussex. <br>
+# Hi! I'm Oliver :)
+I'm a BSc Computer Science Student currently studying at the University of Sussex. <br>
 I'm currently looking for a summer internship or year long placement for 2026/27 so if you like what you see, feel free to reach out.<br><br>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/oliver-howard-5852b5295)
 <br>
