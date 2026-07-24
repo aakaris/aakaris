@@ -1,8 +1,6 @@
-# Hi! I'm Oliver :)
-I'm a BSc Computer Science Student currently studying at the University of Sussex. <br>
-I'm currently looking for a summer internship or year long placement for 2026/27 so if you like what you see, feel free to reach out.<br><br>
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/oliver-howard-5852b5295)
-<br>
+# Hi! 
+I'm a BSc Computer Science Student currently on a placement year. <br>
+I make things that I find useful, I hope they can be useful to you too!
 ## Things I use <br>
 #### Languages: <br>
 ![csharp](https://img.shields.io/badge/csharp-512BD4?logo=csharp&logoColor=white)
@@ -31,8 +29,3 @@ I currently have two major projects:
 - DnDApp - A compeling alternative to existing DnD character builders. See it [here!](https://github.com/oliverisyes/DnDApp)
   - This project is very much in development currently.
   - Built in C# using WinUI3 for GUI.
-<br>
-I also have some more projects planned for when I have time to work on them.
-
-- Social media stats tracker - A way for users to see data about their accounts otherwise hidden behind the platform's APIs, particularly focusing on areas other stat trackers don't.
-- Bus tracker - The name says it all really, a tracker using public bus API's, I'm hoping to run this on an arduino with a screen attached.
